@@ -1,0 +1,3 @@
+Number of all objects: 6
+Number of faulty objects: 3
+List of non-faulty objects: 11111111 11010001 10010001 
