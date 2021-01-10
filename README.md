@@ -5,7 +5,9 @@ Uznałem, że profesjonalne będzie napisanie wszystkich komentarzy w projekcie 
 In this repository I present my solutions to the tasks i was assigned to complete.
 
 I have decided to take on every task in a different programming language in order to present my knowledge and skills regarding their usage.
-Task 1 is written in C, Task 2 in C++ and the facultative Task 3 in Python. 
+Task 1 is written in C, Task 2 in C++ and the facultative Task 3 in Python.
+
+Input.txt and output.txt are files i used my Task1.c program on. The program is designed to take in information from files as in input.txt and outputs in format as shown in output.txt.
 
 Task 3 also requires installing the keyboard module which can be done with the command (provided pip is already installed):
 >pip install keyboard
